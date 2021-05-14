@@ -10,7 +10,7 @@
 5. Delete everything and add files from this git<br>
 6. Go to http://127.0.0.1/phpmyadmin<br>
 7. Press "New" in right up<br>
-8. Name the database "users"<br>
+8. Name the database "users" (without quotation marks)<br>
 9. After creating database press SQL tab<br>
 10. Paste folowing code to here and press "Go"<br>
 CREATE TABLE users (
