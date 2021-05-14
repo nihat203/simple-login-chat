@@ -1,5 +1,5 @@
 <h1> What you will need</h1>
-1. Working PC (Linux, OS X (MacOS), or Windows)
+1. Working PC (Linux, OS X (MacOS), or Windows)<br>
 2. XAMPP (you can download it from <a href="https://www.apachefriends.org/download.html">here (download it according to your OS and its version)</a><br>
 <br>
 <h2> How to set up</h2>
